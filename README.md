@@ -22,3 +22,10 @@ Tracking my journey from zero to fresher-ready, starting Aug 5, 2026.
 
 \- Learned: ls, cd, pwd, mkdir
 
+
+
+\## Aug 5
+
+* setup the VMware and with server and environment 
+* learning some command like poweroff , mkdir , ls 
+
