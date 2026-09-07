@@ -39,9 +39,59 @@ Tracking my journey from zero to fresher-ready, starting Aug 5, 2026.
 * &#x20; Tier 3 (aware, not mastered yet): awk, sed, netstat, traceroute, nmap, iptables, rsync, hard/soft links
 * \- Practiced on OverTheWire Bandit (real applied practice using these commands)
 * 
-* \### Day 4 - Git \& GitHub for DevOps
+* \### Day 4 - Git \& GitHub for DevO;ps
 * \- Completed TrainWithShubham's Git \& GitHub for DevOps workshop
 * \- Practiced: branching (create, switch, merge, delete), deliberately caused and resolved a merge conflict, opened my first Pull Request
 * \- Learned: git diff, git stash, git pull vs git fetch
 * \- Already had basic Git working (clone, add, commit, push) from setting up this repo
+
+
+
+
+
+\### Bash Scripting - COMPLETE
+
+\- Setup: shebang line, chmod +x, running scripts
+
+\- Variables: assignment, command substitution $(), arithmetic $(())
+
+\- Arguments: $1, $2, $@, $#
+
+\- User input: read -p
+
+\- Conditionals: if / elif / else, comparison operators, file test operators (-f, -d, -z)
+
+\- Loops: for loop, while loop
+
+\- Functions: defining and calling, passing arguments to functions
+
+\- Exit codes: $?, checking function success directly with if ! function\_name, exit 0/1
+
+\- Real practice: wrote a script using useradd with user input, wrote a directory-check script with proper error handling
+
+\- Learned this is genuinely used in CI/CD pipelines to detect step success/failure
+
+
+
+\### Networking - COMPLETE
+
+\- OSI Model (7 layers), TCP/IP model
+
+\- IPv4, IPv6, Subnetting
+
+\- DNS, NAT, Route tables
+
+\- VPC basics (cloud networking)
+
+\- Diagnostic tools: ping, nslookup, traceroute
+
+\- Load balancers
+
+\- Big picture: how the internet works, undersea cables
+
+\- Watched via "Computer Networking for DevOps" (same instructor as Linux/Git videos)
+
+
+
+\### Next up: Python (full 3 weeks, starting from zero)
 
