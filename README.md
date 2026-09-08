@@ -95,3 +95,17 @@ Tracking my journey from zero to fresher-ready, starting Aug 5, 2026.
 
 \### Next up: Python (full 3 weeks, starting from zero)
 
+
+
+\### Day X - Body fatigue, recovery day
+
+\- Woke up fine, hit unexplained body pain/fatigue \~2-3 hrs later
+
+\- Rested instead of forcing new material
+
+\- Once recovered enough: revised Linux + Git/GitHub, wrote handwritten notes for both
+
+\- Watching for pattern - will track over next few days (breakfast, hydration, sleep)
+
+
+
